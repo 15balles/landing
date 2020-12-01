@@ -1,0 +1,10 @@
+.btn-green {
+	background: #665450;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 6px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+   	font-weight: lighter;
+  	font-family: Didot;
+}
+
